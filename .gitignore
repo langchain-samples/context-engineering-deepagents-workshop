@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.crt
+credentials.json
+
+# Python / Jupyter
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+Icon?
